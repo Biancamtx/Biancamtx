@@ -2,7 +2,7 @@
 
 Meu nome é Bianca Marcineiro Teixeira
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -10,4 +10,4 @@ Meu nome é Bianca Marcineiro Teixeira
 
   alurastartestudante@email.com 📧
 
-  ![](https://tenor.com/bZCFy.gif)
+  ![image](https://media1.tenor.com/m/hz_OYKX2cNAAAAAC/bh187-adventure-time.gif)
